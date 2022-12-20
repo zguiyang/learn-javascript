@@ -5,9 +5,9 @@
  */
 function search1 (nums, target) {
 
-	var start = 0;
+	let start = 0;
 
-	var end = nums.length - 1;
+	let end = nums.length - 1;
 
 	while ( start <= end ) {
 
